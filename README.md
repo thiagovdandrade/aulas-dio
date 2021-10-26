@@ -4,3 +4,4 @@
 Projetos das aulas da DIO
 
  - Desafio git
+ - VSCode config
