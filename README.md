@@ -5,4 +5,4 @@ Projetos das aulas da DIO
 
  - Desafio git
  - VSCode config
- - SSH & VSCode test
+ - SSH & VSCode test: +1
