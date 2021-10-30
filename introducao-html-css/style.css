@@ -1,0 +1,24 @@
+body {
+    background:darkgray;
+}
+
+#h1, .h2, .h3 {
+    color: darkgoldenrod;
+}
+
+.h3 {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.article {
+    background: white;
+    padding: 10px 15px;
+    border: 15px solid black;
+    border-radius: 10px;
+    margin: 10px;
+    max-width: 1980px;
+}
+.article img {
+    max-width: 1980px;
+}
